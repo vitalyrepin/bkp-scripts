@@ -1,4 +1,6 @@
 bkp-scripts
 ===========
 
-Backup scripts to make backup using hostgator. Just fun.
+Scripts to make backup using hostgator. Just fun.
+
+Use with https and apache directory protection. Otherwise the fun can end badly.

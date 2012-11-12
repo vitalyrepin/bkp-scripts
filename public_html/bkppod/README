@@ -1,0 +1,1 @@
+Create the user through htpasswd -c to protect the file upload form
